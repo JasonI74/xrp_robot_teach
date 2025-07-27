@@ -1,0 +1,9 @@
+{
+  "name": "XRP Field Evergreen",
+  "sourceUrl": "",
+  "topLeft": [16, 16],
+  "bottomRight": [972, 478],
+  "widthInches": 96,
+  "heightInches": 48,
+  "defaultOrigin": "blue"
+}
